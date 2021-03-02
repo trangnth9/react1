@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/trangnth9/trangnth9.github.io/react1/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/trangnth9/trangnth9.github.io/react1/static/js/main.ba9599dc.chunk.js",
-    "main.js.map": "/trangnth9/trangnth9.github.io/react1/static/js/main.ba9599dc.chunk.js.map",
-    "runtime-main.js": "/trangnth9/trangnth9.github.io/react1/static/js/runtime-main.b81ee2e1.js",
-    "runtime-main.js.map": "/trangnth9/trangnth9.github.io/react1/static/js/runtime-main.b81ee2e1.js.map",
-    "static/js/2.1f1ec4fb.chunk.js": "/trangnth9/trangnth9.github.io/react1/static/js/2.1f1ec4fb.chunk.js",
-    "static/js/2.1f1ec4fb.chunk.js.map": "/trangnth9/trangnth9.github.io/react1/static/js/2.1f1ec4fb.chunk.js.map",
-    "static/js/3.5eece164.chunk.js": "/trangnth9/trangnth9.github.io/react1/static/js/3.5eece164.chunk.js",
-    "static/js/3.5eece164.chunk.js.map": "/trangnth9/trangnth9.github.io/react1/static/js/3.5eece164.chunk.js.map",
+    "main.css": "/trangnth9/trangnth9.github.io/react1/static/css/main.8fd4ca4e.chunk.css",
+    "main.js": "/trangnth9/trangnth9.github.io/react1/static/js/main.29e81597.chunk.js",
+    "main.js.map": "/trangnth9/trangnth9.github.io/react1/static/js/main.29e81597.chunk.js.map",
+    "runtime-main.js": "/trangnth9/trangnth9.github.io/react1/static/js/runtime-main.6430731d.js",
+    "runtime-main.js.map": "/trangnth9/trangnth9.github.io/react1/static/js/runtime-main.6430731d.js.map",
+    "static/js/2.a822c087.chunk.js": "/trangnth9/trangnth9.github.io/react1/static/js/2.a822c087.chunk.js",
+    "static/js/2.a822c087.chunk.js.map": "/trangnth9/trangnth9.github.io/react1/static/js/2.a822c087.chunk.js.map",
+    "static/js/3.852475a7.chunk.js": "/trangnth9/trangnth9.github.io/react1/static/js/3.852475a7.chunk.js",
+    "static/js/3.852475a7.chunk.js.map": "/trangnth9/trangnth9.github.io/react1/static/js/3.852475a7.chunk.js.map",
     "index.html": "/trangnth9/trangnth9.github.io/react1/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/trangnth9/trangnth9.github.io/react1/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.1f1ec4fb.chunk.js.LICENSE.txt": "/trangnth9/trangnth9.github.io/react1/static/js/2.1f1ec4fb.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/trangnth9/trangnth9.github.io/react1/static/media/logo.6ce24c58.svg"
+    "static/css/main.8fd4ca4e.chunk.css.map": "/trangnth9/trangnth9.github.io/react1/static/css/main.8fd4ca4e.chunk.css.map",
+    "static/js/2.a822c087.chunk.js.LICENSE.txt": "/trangnth9/trangnth9.github.io/react1/static/js/2.a822c087.chunk.js.LICENSE.txt",
+    "static/media/img1.fa83ecec.png": "/trangnth9/trangnth9.github.io/react1/static/media/img1.fa83ecec.png",
+    "static/media/img2.58f55ae9.png": "/trangnth9/trangnth9.github.io/react1/static/media/img2.58f55ae9.png",
+    "static/media/img3.086c3018.png": "/trangnth9/trangnth9.github.io/react1/static/media/img3.086c3018.png",
+    "static/media/img4.7a86128d.png": "/trangnth9/trangnth9.github.io/react1/static/media/img4.7a86128d.png",
+    "static/media/img5.7ccdcf77.png": "/trangnth9/trangnth9.github.io/react1/static/media/img5.7ccdcf77.png",
+    "static/media/img6.b11767e6.png": "/trangnth9/trangnth9.github.io/react1/static/media/img6.b11767e6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b81ee2e1.js",
-    "static/js/2.1f1ec4fb.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ba9599dc.chunk.js"
+    "static/js/runtime-main.6430731d.js",
+    "static/js/2.a822c087.chunk.js",
+    "static/css/main.8fd4ca4e.chunk.css",
+    "static/js/main.29e81597.chunk.js"
   ]
 }
